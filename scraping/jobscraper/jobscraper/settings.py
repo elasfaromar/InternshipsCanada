@@ -20,7 +20,7 @@ NEWSPIDER_MODULE = "jobscraper.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
-SCRAPEOPS_API_KEY = 'key'
+SCRAPEOPS_API_KEY = ''
 SCRAPEOPS_PROXY_ENABLED = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
